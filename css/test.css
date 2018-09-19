@@ -553,7 +553,8 @@ div.unread-mentions-indicator-bottom {
 .guildsWrapper-5TJh6A .guilds-1q_RqH {
     display: flex;
     flex-flow: row wrap;
-    padding-left: 100;
+    padding-left: 0;
+    padding-right: 200;
     align-content: flex-start;
 }
 
