@@ -1,15 +1,15 @@
-# NotAnotherAnimeTheme
-NotAnotherAnimeTheme is a highly customizable theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/puckzxz/NotAnotherAnimeTheme#images-of-variations)
+# MrJDubYou Theme
+MrJDubYou Theme is a highly customizable theme for Discord (with [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest)) allowing for a revitalized and fresh take on the Discord UI. Every part of the theme is customizable, from the background image to the scroll bar colors. The user has full control over the default configuration. Preview pictures can be found [here.](https://github.com/MrJDubYou/betterdiscord#images-of-variations)
 
 ## Installation
 1. Ensure [Bandaged BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is installed.
 2. Open one of the following variations of the theme in a new browser tab
-      * [Single Column](https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeSCSL.theme.css)
-      * [Double Column](https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeDCSL.theme.css)
-      * [Triple Column](https://raw.githubusercontent.com/puckzxz/NotAnotherAnimeTheme/master/NotAnotherAnimeThemeTCSL.theme.css)
+      * [Single Column](https://raw.githubusercontent.com/MrJDubYou/betterdiscord/master/MrJDubYouSCSL.theme.css)
+      * [Double Column](https://raw.githubusercontent.com/MrJDubYou/betterdiscord/master/MrJDubYouDCSL.theme.css)
+      * [Triple Column](https://raw.githubusercontent.com/MrJDubYou/betterdiscord/master/MrJDubYouTCSL.theme.css)
 3. In the new tab, Right click > "Save As..." > save to the BetterDiscord Theme folder.
 4. Restart the Discord client either by right clicking the tray icon and clicking "Quit Discord" or by pressing Ctrl+R inside the client.
-5. Go to User Settings in Discord > Themes > Select `NotAnotherAnimeTheme vX.X by puckzxz#2080`
+5. Go to User Settings in Discord > Themes > Select `MrJDubYou vX.X by mrjdubyou#0001`
 
 ## FAQ
 
@@ -33,13 +33,13 @@ A Discord server was made for issues, support, comments, recommendations, etc.
 Any issues can be expressed by:
 
 * [Joining the Discord server](https://discord.gg/FdZhbjY)
-* [Opening an issue on GitHub](https://github.com/puckzxz/NotAnotherAnimeTheme/issues)
-* Messaging me on Discord at puckzxz#2080
+* [Opening an issue on GitHub](https://github.com/mrjdubyou/betterdiscord/issues)
+* Messaging me on Discord at mrjdubyou#0001
 
 ## Notes
 While the theme is Free and Open Source, it takes time to keep the theme up to date. If you enjoy the theme please consider supporting the Author to continue maintenance and development of it.
-* [Donate with PayPal](https://www.paypal.me/ChrisBock)
-* [Become a Patron with Patreon](https://www.patreon.com/ChrisBock)
+* [Donate with StreamLabs](https://www.streamlabs.com/mrjdubyou)
+* [Become a Patron with Patreon](https://www.patreon.com/MrJDubYou)
 
 In the appearance settings make sure **Dark** is selected.
 
@@ -49,6 +49,8 @@ This theme is **NOT** minimal mode compatible.
 * Thanks to [appu1232](https://github.com/appu1232/) for fixing the issue with DM's
 * Thanks to [V-X](https://github.com/ImVexed) for making the readme significantly better
 * Thanks to [Qu4k3](https://github.com/Qu4k3) for fixing a lot and helping with the recode
+* Thanks to [puckzxz](https://github.com/puckzxz) for the base theme code
+
 ## Images of variations
 #### Single Column Server List
 ![NotAnotherAnimeThemeSCSL](https://i.imgur.com/HStMvDg.jpg)
