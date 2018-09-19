@@ -28,11 +28,11 @@ Have you made something cool with NotAnotherAnimeTheme and feel like sharing it?
 ## Support
 A Discord server was made for issues, support, comments, recommendations, etc.
 
-[<img src="https://canary.discordapp.com/api/guilds/412794678791110664/widget.png?style=banner3">](https://discord.gg/FdZhbjY)
+[<img src="https://canary.discordapp.com/api/guilds/266729560412913665/widget.png?style=banner3">](https://discord.gg/DQVEvR9)
 
 Any issues can be expressed by:
 
-* [Joining the Discord server](https://discord.gg/FdZhbjY)
+* [Joining the Discord server](https://discord.gg/DQVEvR9)
 * [Opening an issue on GitHub](https://github.com/mrjdubyou/betterdiscord/issues)
 * Messaging me on Discord at mrjdubyou#0001
 
@@ -53,8 +53,8 @@ This theme is **NOT** minimal mode compatible.
 
 ## Images of variations
 #### Single Column Server List
-![NotAnotherAnimeThemeSCSL](https://i.imgur.com/HStMvDg.jpg)
+![MrJdubYouSCSL](https://i.imgur.com/OGWy9nO.jpg)
 #### Double Column Server List
-![NotAnotherAnimeTheme](https://i.imgur.com/B5N8Owl.jpg)
+![MrJDubYouDCSL](https://i.imgur.com/ZIvisf3.jpg)
 #### Triple Column Server List
-![NotAnotherAnimeThemeTCSL](https://i.imgur.com/J4CHHcV.jpg)
+![MrJDubYouTCSL](https://i.imgur.com/fGIrOGR.jpg)
