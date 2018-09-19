@@ -551,8 +551,8 @@ div.unread-mentions-indicator-bottom {
 .guildsWrapper-5TJh6A{width: 189px;}
 .guildsWrapper-5TJh6A .scroller-wrap{width: 150px;}
 .guildsWrapper-5TJh6A .guilds-1q_RqH {
-    display: flex;
-    flex: inherit;
+    display: inline-flex;
+    flex-flow: row wrap;
     padding-left: 0;
     align-content: flex-start;
 }
